@@ -5,7 +5,7 @@
 
 
 
-### [前 言](logical-thought/前言.md)
+### [前 言](./logical-thought/前言.md)
 
 ### 第一章 假设法
 
