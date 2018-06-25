@@ -5,7 +5,7 @@
 
 
 
-### [前 言](https://github.com/zhanghaichang/logical-thought/blob/master/%E5%89%8D%20%E8%A8%80.md)
+### [前 言](%E5%89%8D%20%E8%A8%80.md)
 
 ### [第一章 假设法](https://github.com/zhanghaichang/logical-thought/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%81%87%E8%AE%BE%E6%B3%95.md)
 
