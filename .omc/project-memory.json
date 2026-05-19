@@ -42,15 +42,27 @@
   },
   "hotPaths": [
     {
-      "path": "第三章 排除法.md",
-      "accessCount": 4,
-      "lastAccessed": 1779194585304,
+      "path": "第四章 分析法.md",
+      "accessCount": 8,
+      "lastAccessed": 1779195312688,
       "type": "file"
     },
     {
-      "path": "第四章 分析法.md",
+      "path": "第三章 排除法.md",
+      "accessCount": 6,
+      "lastAccessed": 1779195335954,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
       "accessCount": 4,
-      "lastAccessed": 1779194604154,
+      "lastAccessed": 1779195365847,
+      "type": "file"
+    },
+    {
+      "path": "第五章 观察法.md",
+      "accessCount": 2,
+      "lastAccessed": 1779195254389,
       "type": "file"
     }
   ],
