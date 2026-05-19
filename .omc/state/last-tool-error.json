@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git add \\\"README.md\\\" \\\"前 言.md\\\" \\\"第一章 假设法.md\\\" \\\"第二章 计算法.md\\\" \\\"第三章 排除法.md\\\" \\\"第四章 分析法.md\\\" \\\"第五章 观察法.md\\\"\",\"description\":\"Stage all chapter files\"}",
+  "error": "Exit code 127\n/usr/bin/bash: source /c/Users/Administrator/.claude/shell-snapshots/snapshot-bash-1779186563733-4v8za8.sh && shopt -u extglob 2>/dev/null || true && eval 'git add \"README.md\" \"前 言.md\" \"第一章 假设法.md\" \"第二章 计算法.md\" \"第三章 排除法.md\" \"第四章 分析法.md\" \"第五章 观察法.md\"' \\< /dev/null && pwd -P >| /c/Users/ADMINI~1/AppData/Local/Temp/claude-f7ae-cwd: No such file or directory",
+  "timestamp": "2026-05-19T12:20:12.352Z",
+  "retry_count": 1
+}
