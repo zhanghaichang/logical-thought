@@ -42,6 +42,12 @@
   },
   "hotPaths": [
     {
+      "path": "README.md",
+      "accessCount": 10,
+      "lastAccessed": 1779198721232,
+      "type": "file"
+    },
+    {
       "path": "第四章 分析法.md",
       "accessCount": 8,
       "lastAccessed": 1779195312688,
@@ -54,15 +60,21 @@
       "type": "file"
     },
     {
-      "path": "README.md",
-      "accessCount": 5,
-      "lastAccessed": 1779195671151,
+      "path": "前 言.md",
+      "accessCount": 3,
+      "lastAccessed": 1779197154320,
       "type": "file"
     },
     {
       "path": "第五章 观察法.md",
       "accessCount": 2,
       "lastAccessed": 1779195254389,
+      "type": "file"
+    },
+    {
+      "path": "前-言.md",
+      "accessCount": 2,
+      "lastAccessed": 1779197137793,
       "type": "file"
     }
   ],

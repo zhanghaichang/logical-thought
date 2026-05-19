@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git mv:*)",
+      "Bash(ls:*)",
+      "Bash(cmd //c \"ren \\\\\"第五章 观察法.md\\\\\" \\\\\"第五章-观察法.md\\\\\"\")",
+      "mcp__plugin_oh-my-claudecode_t__python_repl",
+      "Bash(cd /d D:githublogical-thought)",
+      "Bash(ren \"第五章 观察法.md\" \"第五章-观察法.md\")",
+      "Bash(powershell -Command \"Rename-Item 'D:\\\\github\\\\logical-thought\\\\第五章 观察法.md' 'D:\\\\github\\\\logical-thought\\\\第五章-观察法.md'\")",
+      "Bash(python3:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
