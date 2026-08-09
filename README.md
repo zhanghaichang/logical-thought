@@ -1,3 +1,5 @@
+
+
 # 逻辑思维训练500题(修订版)
 
 
@@ -5,7 +7,7 @@
 
 
 
-### [前 言](%E5%89%8D%20%E8%A8%80.md)
+### [前 言](前 言.md)
 
 ### [第一章 假设法](https://github.com/zhanghaichang/logical-thought/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%81%87%E8%AE%BE%E6%B3%95.md)
 
@@ -16,5 +18,3 @@
 ### [第四章 分析法](https://github.com/zhanghaichang/logical-thought/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%88%86%E6%9E%90%E6%B3%95.md)
 
 ### [第五章 观察法](https://github.com/zhanghaichang/logical-thought/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E8%A7%82%E5%AF%9F%E6%B3%95.md)
-
-
